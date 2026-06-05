@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://parkerpestcontrolco.com/sitemap.xml
